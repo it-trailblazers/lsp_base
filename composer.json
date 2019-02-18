@@ -3,6 +3,10 @@
     "description": "LIfe Science Platform for Drupal 8 site project with composer.",
     "license": "GPL-2.0-or-later",
     "type": "project",
+    "repositories": [
+        {"type": "vcs", "url": "https://github.com/it-trailblazers/lsp_core_platform"},
+        {"type": "vcs", "url": "https://github.com/it-trailblazers/lsp_base"}
+    ],
     "require": {
         "composer/installers": "^1.2",
         "davidbarratt/custom-installer": "1.0.*@alpha",
