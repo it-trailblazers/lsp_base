@@ -4,7 +4,8 @@
     "license": "GPL-2.0-or-later",
     "type": "project",
     "repositories": [
-        {"type": "vcs", "url": "https://github.com/it-trailblazers/lsp_core_platform"}
+        {"type": "vcs", "url": "https://github.com/it-trailblazers/lsp_core_platform"},
+        {"type": "vcs", "url": "https://github.com/it-trailblazers/lsp_profile"}
     ],
     "require": {
         "composer/installers": "^1.2",
@@ -15,7 +16,8 @@
         "webmozart/path-util": "^2.3",
         "composer-plugin-api": "^1.0.0",
         "zaporylie/composer-drupal-optimizations": "^1.0",
-        "lsp/lsp_core_platform": "master"
+        "lsp/lsp_core_platform": "master",
+        "lsp/lsp_profile": "dev-master"
     },
     "require-dev": {
         "jcalderonzumba/gastonjs": "^1.0.2",
