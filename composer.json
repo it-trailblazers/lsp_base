@@ -5,7 +5,7 @@
     "type": "project",
     "repositories": [
         {"type": "vcs", "url": "https://github.com/it-trailblazers/lsp_core_platform"},
-        {"type": "vcs", "url": "https://github.com/it-trailblazers/lsp_base"}
+        {"type": "vcs", "url": "https://github.com/it-trailblazers/lsp_base"},
         {"type": "vcs", "url": "https://github.com/it-trailblazers/lsp_profile"}
     ],
     "require": {
