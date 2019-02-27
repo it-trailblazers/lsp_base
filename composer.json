@@ -17,7 +17,7 @@
         "composer-plugin-api": "^1.0.0",
         "zaporylie/composer-drupal-optimizations": "^1.0",
         "lsp/lsp_core_platform": "master",
-        "lsp/lsp_profile": "dev-master"
+        "lsp/lsp_profile": "dev-dev"
     },
     "require-dev": {
         "jcalderonzumba/gastonjs": "^1.0.2",
