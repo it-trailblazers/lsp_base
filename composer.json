@@ -4,8 +4,18 @@
     "license": "GPL-2.0-or-later",
     "type": "project",
     "repositories": [
-        {"type": "vcs", "url": "https://github.com/it-trailblazers/lsp_core_platform"},
-        {"type": "vcs", "url": "https://github.com/it-trailblazers/lsp_profile"}
+        {   
+            "type": "vcs", 
+            "url": "https://github.com/it-trailblazers/lsp_core_platform"
+        },
+        {   
+            "type": "vcs", 
+            "url": "https://github.com/it-trailblazers/lsp_profile"
+        },
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
     ],
     "require": {
         "composer/installers": "^1.2",
