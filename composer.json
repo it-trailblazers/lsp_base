@@ -11,6 +11,10 @@
         {   
             "type": "vcs", 
             "url": "https://github.com/it-trailblazers/lsp_profile"
+        }, 
+        {   
+            "type": "vcs", 
+            "url": "https://github.com/it-trailblazers/lsp_security"
         },
         {
             "type": "composer",
@@ -27,7 +31,8 @@
         "composer-plugin-api": "^1.0.0",
         "zaporylie/composer-drupal-optimizations": "^1.0",
         "lsp/lsp_core_platform": "master",
-        "lsp/lsp_profile": "dev-dev"
+        "lsp/lsp_profile": "dev-dev",        
+        "lsp/lsp_security": "dev-dev"
     },
     "require-dev": {
         "jcalderonzumba/gastonjs": "^1.0.2",
